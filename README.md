@@ -31,6 +31,12 @@ Roll with the punches and think creatively.
 
 These scenarios run under the assumption that a basic Business Continuity and Disaster Recovery plan are established.
 
+Before beginning establish the following  "Roles"
+
+- The "Leader" - the person is generally regarded as the executor of the business continuty plan (generally a manager of some sort)
+- Department Heads/Team Leads - the point of contact for each "team"
+- "Team" members
+- Note taker for funsies if you want
 -----
 
 
@@ -45,12 +51,6 @@ This module will walk through communication in the event of a disaster and estab
 
 Relevant scenario roll tables can be found at the end of this document.
 
-Before beginning establish the following  "Roles"
-
-- The "Leader" - the person is generally regarded as the executor of the business continuty plan (generally a manager of some sort)
-- Department Heads/Team Leads - the point of contact for each "team"
-- "Team" members
-- Note taker for funsies if you want
 
 -----
 
