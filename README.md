@@ -43,7 +43,7 @@ Before beginning establish the following  "Roles"
 
 
 
-<b> Module 1: Commination and Documentation is key! </b>
+<b> Module 1: Communication and Documentation is key! </b>
 
 -----
 
