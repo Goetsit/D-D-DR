@@ -3,7 +3,7 @@ Laura's Dungeons and Dragons and Disaster Recovery Table Top Adventure
 
 <b>Goal: Infrastructure is often very reactive and this is our opportunity to proactively go through scenarios to help better prepare ourselves as individuals and as an infrastructure team to address not just disaster scenarios but the impact a disaster can have.
 
-Key point to remember: We can't plan for every disaster, but we can plan for impact.
+Key point to remember: We can't plan for every disaster, but we can plan for impact such as critical systems or staff being unavailable.
 </b>
 
 
@@ -44,6 +44,13 @@ These scenarios run under the assumption that a basic Business Continuity and Di
 This module will walk through communication in the event of a disaster and establishing key points of contact.
 
 Relevant scenario roll tables can be found at the end of this document.
+
+Before beginning establish the following  "Roles"
+
+- The "Leader" - the person is generally regarded as the executor of the business continuty plan (generally a manager of some sort)
+- Department Heads/Team Leads - the point of contact for each "team"
+- "Team" members
+- Note taker for funsies if you want
 
 -----
 
