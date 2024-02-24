@@ -25,7 +25,9 @@ Depending on the number of participants, have each person or "team" roll initiat
 
 Scenarios will be run in initiative order, to help ensure proper speaking time. you can remain in this order or change it up at your discretion.
 
-As a DRM, keep in mind the actions your "players" take and how that can impact a situation. For example, how would the scenarios be impacted when someone isn't communicated with?
+As a DRM, keep in mind the actions your "players" take and how that can impact a situation. 
+For example, how would the scenarios be impacted when someone isn't communicated with?
+It might feel silly, but ensure actions are explicitly stated. This scenario is not running under the "assumption" that someone tells someone else. All steps are important and should not be left up to assumption and imagination.
 
 Roll with the punches and think creatively.
 
@@ -47,7 +49,7 @@ Before beginning establish the following  "Roles"
 
 <b> DRM Notes: </b> 
 
-This module will walk through communication in the event of a disaster and establishing key points of contact.
+This module will begin with ensuring each member at the table has access to the DR/BC plan and a walk through communication in the event of a disaster and establishing key points of contact.
 
 Relevant scenario roll tables can be found at the end of this document.
 
@@ -71,7 +73,7 @@ You were all invited out to go grab a drink with your mutual good friend, Gill B
 
 Gill asks everyone to say hi to each other and wants everyone to give us the following information:
 
-- Introductions:
+- Introductions (if needed):
 
     - Names, Current location, "team" (DBA, Sys Admin, etc), Manager
  
@@ -93,9 +95,12 @@ Gill asks everyone to say hi to each other and wants everyone to give us the fol
              - Emergency Services: 911
 
 
-Communication Scenarios:
+Communication and business continuity plan Scenarios:
 
-After making introductions you all find end up chatting happily amongst yourselves. 
+After making introductions you all find end up chatting happily amongst yourselves. Suddenly, you all feel your phones vibrate or hear them ring.
+To the first person in established initiative: Gill has reached out to you and he's a bit paniced. His text message reads "Hey, my blink dog ate business continuity plan, do you have yours readily available and if so... where?"
+
+>> The point of this question is to prompt people to confirm that they have a phsycial and/or digital copy of their business continuity plan. If one or both are missing, what can we do to make sure they have access to this?
 
 
 
