@@ -1,7 +1,10 @@
 # D-D-DR
 Laura's Dungeons and Dragons and Disaster Recovery Table Top Adventure 
 
-<b>Goal: Infrastructure is often very reactive and this is our opportunity to proactively go through a disaster and find and address gaps before a real disaster actually happens. This is also our opportunity to understand our duties not only as individuals but as an entire team to ensure stability to the best of our abilities. This is about us as people.</b>
+<b>Goal: Infrastructure is often very reactive and this is our opportunity to proactively go through scenarios to help better prepare ourselves as individuals and as an infrastructure team to address not just disaster scenarios but the impact a disaster can have.
+
+Key point to remember: We can't plan for every disaster, but we can plan for impact.
+</b>
 
 
 Rules:
@@ -9,11 +12,12 @@ Rules:
 - If simulation is being done online, please ensure one person speaks at a time. I understand that this can slow things down, but I want to ensure everyone has their voice heard and everyone else can understand what is going on and when.
 - Please do not actually break anything
 - Although this is a twist on your standard DR simulation, please keep speaking points and language professional (you can drop your F bombs when a real disaster happens)
-- Ask questions and collaborate
+- Ask questions and collaborate, this is a team based event - so be a team!
+- During scenario initiative, if you cannot/do not have anything to add or do simply say "pass" and move on to the next person in the order.
 
 -----
 
-DRM Notes: 
+<b> DRM Notes: </b> 
 
 There will be notes for the DRM at the top of each module, tables can be found at the bottom of the document.
 
@@ -35,7 +39,7 @@ These scenarios run under the assumption that a basic Business Continuity and Di
 
 -----
 
-DRM Notes: 
+<b> DRM Notes: </b> 
 
 This module will walk through communication in the event of a disaster and establishing key points of contact.
 
@@ -84,6 +88,7 @@ Gill asks everyone to say hi to each other and wants everyone to give us the fol
 
 Communication Scenarios:
 
+After making introductions you all find end up chatting happily amongst yourselves. 
 
 
 
