@@ -22,36 +22,34 @@ Largest Import: Fireball
 Population: A non-zero number
 
 ** DRM before beginning, depending on the number of participants, have each person or "team" roll initiative (1d20), highest goes first.
-Scenarios will be run in initiative order, to help ensure proper speaking time. 
+Scenarios will be run in initiative order, to help ensure proper speaking time. you can remain in this order or change it up at your discretion.
 
-<b> Module 1: A Warmup for the People </b>
+<b> Module 1: Commination is key! </b>
+
+-----
+
+DRM Notes: 
+
+This module will walk through communication in the event of a disaster and establishing key points of contact.
+
+Relevant scenario roll tables can be found at the end of this document.
+
+-----
 
 We start off the adventure in a classic setting... the favorite watering hole called "Your Home Office". A quaint tavern that looks different to every patron, it's quite a magical feat really.
-DRM: Is desired, use the below table(s) to determine timeframe
+It's a beautiful (Day/Night), you're enjoying your favorite snacks, and sharing pictures of your pets, kids, or the cool new enchanted vacuum you got from the "Bedroll, Bath, and Beyond" down the street that was having a close-out sale.
+You were all invited out to go grab a drink with your mutual good friend, Gill Bates. Gill realizes that even though you're all his greatest and most trusted friends, no one here knows anyone else! He recognizes that in an environment where some folks are local and some are remote, it can lead to disaprity in working relationships!
 
-Day of the week
-
-| Roll 1d6    |Day          |
-| ----------- | ----------- |
-| 1           | Monday      |
-| 2           | Tuesday     |
-| 3           | Wednesday   |
-| 4           | Thursday    |
-| 5           | Friday      |
-| 6           | Saturday/Sunday   |
-
-
-Time of the day 
-
-| Roll  1d4   |Time of Day  |
-| ----------- | ----------- |
-| 1           | 6AM-11:59AM |
-| 2           | 12PM-4:59PM |
-| 3           | 5PM-10:59PM |
-| 4           | 11PM-5:59AM |
+Gill asks everyone to say hi to each other and wants everyone to give us the following information:
 
 - Introductions:
-    - Names, Current location, team (DBA, Sys Admin, etc), Manager
+
+    - Names, Current location, "team" (DBA, Sys Admin, etc), Manager
+ 
+    - Something that's your favorite (it could be your favorite food, your favorite sports team, your favorite color, your favorite song/band, your favorite month of the year etc)
+
+
+
 - Establish key contacts:
       - Internal or external points of contact:
           - Example:
@@ -65,6 +63,8 @@ Time of the day
                  - Email:
              - Emergency Services: 911
 
+
+Communication Scenarios:
 
 
 
@@ -107,3 +107,36 @@ Random External Occurences Roll 1d100
 
 
 -- Uh-oh, someone forgot to update your business continuity plan for several years, roll on the below table to find out just how out-of-date it is!
+
+
+
+
+Day of the week
+
+| Roll 1d6    |Day          |
+| ----------- | ----------- |
+| 1           | Monday      |
+| 2           | Tuesday     |
+| 3           | Wednesday   |
+| 4           | Thursday    |
+| 5           | Friday      |
+| 6           | Saturday/Sunday   |
+
+
+Time of the day 
+
+| Roll  1d4   |Time of Day  |
+| ----------- | ----------- |
+| 1           | 6AM-11:59AM |
+| 2           | 12PM-4:59PM |
+| 3           | 5PM-10:59PM |
+| 4           | 11PM-5:59AM |
+
+Time of the year
+
+| Roll  1d4   |Time of Day  |
+| ----------- | ----------- |
+| 1           | Winter      |
+| 2           | Spring      |
+| 3           | Summer      |
+| 4           | Fall        |
