@@ -43,13 +43,13 @@ Before beginning establish the following  "Roles"
 
 
 
-<b> Module 1: Communication and Documentation is key! </b>
+<b> Module 1 (optional): Communication and Documentation is key! </b>
 
 -----
 
 <b> DRM Notes: </b> 
 
-This is jsut a tiny little run through to get people going. 
+This is just a tiny little run through to get people going. 
 
 We are looking to establish the expectation that people know where their business continuty plan is, there should be several copies available. 
 
@@ -98,12 +98,40 @@ Gill pops back into our DMs and says: "Yo, one more thing, my call tree is blank
 
 
 
-Disaster Table Roll 1d20
+<b> Module 2: Let's get this scenario started. </b>
+
+-----
+
+<b> DRM Notes: </b> 
+
+This is pretty much all you. 
+
+Re-establish, if desired, initiative.
+
+Roll on the following tables to begin establishing your scenario.
+
+Disaster Table - your main scenario, this is the big one (fire, weather, global pandemic, cyberattack, etc) start here 
+Random Occurence Table - Inject some fun in this, you can start the scenario with a couple random occurences to spice things up and then sprinkle them in as you go. 
+Day/year/time Table(s) - Establish a time frame for your disaster if desired
+
+
+
+-----
+
+
+Disaster Table Roll 1d6
+
+DRM note - establish day, time, and time of year for this event.
+Determine either based on initiative or randomly who will be the first resource notified/made aware of anything (for example, event is occuring overnight and first person is the on-call rep and recieves the notifications etc)
 
 | Roll        |Disaster     |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 1           | An ancient red dragon has decided that the data centers shouldn't exist, starting with your pimary location. Fire is blazing. |
+| 2           | Despite our best efforts in a phishing campaign, someone fell for a cyber-mimic. Womp womp and we are dealing with a cyberattack  |
+| 3           |       |
+| 4           | Text        |
+| 5           | Title       |
+| 6           | Text        |
 
 
 Random External Occurences Roll 1d100
