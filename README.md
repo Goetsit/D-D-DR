@@ -11,18 +11,25 @@ Rules:
 - Although this is a twist on your standard DR simulation, please keep speaking points and language professional (you can drop your F bombs when a real disaster happens)
 - Ask questions and collaborate
 
+-----
 
-Introduction:
-DRM (Disaster Recovery Master)
+DRM Notes: 
 
-Welcome adventurers, to the world of "GO"
-Here, human capital is prized and jobs are found in stores.
-Largest Export: ACHs
-Largest Import: Fireball
-Population: A non-zero number
+There will be notes for the DRM at the top of each module, tables can be found at the bottom of the document.
 
-** DRM before beginning, depending on the number of participants, have each person or "team" roll initiative (1d20), highest goes first.
+Depending on the number of participants, have each person or "team" roll initiative (1d20), highest goes first.
+
 Scenarios will be run in initiative order, to help ensure proper speaking time. you can remain in this order or change it up at your discretion.
+
+As a DRM, keep in mind the actions your "players" take and how that can impact a situation. For example, how would the scenarios be impacted when someone isn't communicated with?
+
+Roll with the punches and think creatively.
+
+These scenarios run under the assumption that a basic Business Continuity and Disaster Recovery plan are established.
+
+-----
+
+
 
 <b> Module 1: Commination is key! </b>
 
@@ -35,6 +42,17 @@ This module will walk through communication in the event of a disaster and estab
 Relevant scenario roll tables can be found at the end of this document.
 
 -----
+
+
+Welcome adventurers, to the world of "GO"
+
+Here, human capital is prized and jobs are found in stores.
+
+Largest Export: ACHs
+
+Largest Import: Fireball
+
+Population: A non-zero number
 
 We start off the adventure in a classic setting... the favorite watering hole called "Your Home Office". A quaint tavern that looks different to every patron, it's quite a magical feat really.
 It's a beautiful (Day/Night), you're enjoying your favorite snacks, and sharing pictures of your pets, kids, or the cool new enchanted vacuum you got from the "Bedroll, Bath, and Beyond" down the street that was having a close-out sale.
@@ -83,7 +101,7 @@ Random External Occurences Roll 1d100
 | Roll        |Occurence    |
 | ----------- | ----------- |
 | Header      | You left your laptop open and the Cloud Giant child that your babysitting turned off 1d4 servers       |
-| Paragraph   | Piles of displacer beast kittens managed to get a hold of someones password, we are now victims of a cyber attack    |
+| Paragraph   | Your displacer beast kitten ate your physical BC documentation (do you have electronic versions? another physical copy?)   |
 | Header      | Giant Badgers are swarming the streets, causing car based travel to take an additional 1d4 travel time      |
 | Paragraph   | Text        |
 | Header      | Title       |
