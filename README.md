@@ -5,9 +5,11 @@ Laura's Dungeons and Dragons and Disaster Recovery Table Top Adventure
 
 
 Rules:
+- This is a Table Top Recovery Test, this is meant to be a walk through with no actual cutover of systems.
 - If simulation is being done online, please ensure one person speaks at a time. I understand that this can slow things down, but I want to ensure everyone has their voice heard and everyone else can understand what is going on and when.
 - Please do not actually break anything
 - Although this is a twist on your standard DR simulation, please keep speaking points and language professional (you can drop your F bombs when a real disaster happens)
+
 
 Introduction:
 DRM (Disaster Recovery Master)
@@ -20,10 +22,9 @@ Population: A non-zero number
 
 Excersice modules:
 
-First step:
+<b> Module 1:  </b>
 - Introductions:
-    - Names, Current location
-     -    Ensure we all know who is who
+    - Names, Current location, team (DBA, Sys Admin, etc), Manager
 
 
 
@@ -38,12 +39,31 @@ Disaster Table Roll 1d20
 | Paragraph   | Text        |
 
 
-Random Occurences Roll 1d20
+Random External Occurences Roll 1d100
 
 | Roll        |Occurence    |
 | ----------- | ----------- |
+| Header      | You left your laptop open and the Cloud Giant child that your babysitting turned off 1d4 servers       |
+| Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
 
 
