@@ -43,16 +43,19 @@ Before beginning establish the following  "Roles"
 
 
 
-<b> Module 1: Commination is key! </b>
+<b> Module 1: Commination and Documentation is key! </b>
 
 -----
 
 <b> DRM Notes: </b> 
 
-This module will begin with ensuring each member at the table has access to the DR/BC plan and a walk through communication in the event of a disaster and establishing key points of contact.
+This is jsut a tiny little run through to get people going. 
 
-Relevant scenario roll tables can be found at the end of this document.
+We are looking to establish the expectation that people know where their business continuty plan is, there should be several copies available. 
 
+Additionally establish other documentation as well - for example an inventory of critical systems or a call tree.
+
+General gist here is that our friend Gill is having just a hard time with his Blink Dog who keeps eating all of his documentation. Let's help Gill get his life together.
 
 -----
 
@@ -80,28 +83,18 @@ Gill asks everyone to say hi to each other and wants everyone to give us the fol
     - Something that's your favorite (it could be your favorite food, your favorite sports team, your favorite color, your favorite song/band, your favorite month of the year etc)
 
 
-
-- Establish key contacts:
-      - Internal or external points of contact:
-          - Example:
-             - Chief Technology Office:
-                 - Name:
-                 - Phone Number:
-                 - Email:
-             - SRE Director:
-                 - Name:
-                 - Phone Number:
-                 - Email:
-             - Emergency Services: 911
-
-
-Communication and business continuity plan Scenarios:
-
-After making introductions you all find end up chatting happily amongst yourselves. Suddenly, you all feel your phones vibrate or hear them ring.
-To the first person in established initiative: Gill has reached out to you and he's a bit paniced. His text message reads "Hey, my blink dog ate business continuity plan, do you have yours readily available and if so... where?"
+After making introductions you all find end up chatting happily amongst yourselves. 
+To the first person in established initiative or a random choice: Gill has reached out to you and he's a bit paniced,  "Hey, my blink dog ate business continuity plan, do you have yours readily available and if so... where?"
 
 >> The point of this question is to prompt people to confirm that they have a phsycial and/or digital copy of their business continuity plan. If one or both are missing, what can we do to make sure they have access to this?
 
+Gill responds : "Great, also btw, my blink dog is wondering if you have an electronic and/or physical inventory of critical systems... think you can help me out with answering that one?"
+
+>> This is disaster recovery. Everyone involved should have access to an inventory of our critical systems. We shouldn't be relying on tribal knowledge or sticky notes on your desk. If any team does not hhave an inventory, how can they get one?
+
+Gill pops back into our DMs and says: "Yo, one more thing, my call tree is blank, send me a picture of yours plzzzzzzz"
+
+>> Ensure your BC has an up-to-date call tree
 
 
 
