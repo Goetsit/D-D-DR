@@ -1,7 +1,7 @@
 # D-D-DR
 Laura's Dungeons and Dragons and Disaster Recovery Table Top Adventure 
 
-<b>Goal: Infrastructure is often very reactive and this is our opporunity to proactively go through a disaster and find and address gaps before a real disaster actually happens. This is also our opportunity to understand our duties not only as individuals but as an entire team to ensure stability to the best of our abilities. This is about us as people.</b>
+<b>Goal: Infrastructure is often very reactive and this is our opportunity to proactively go through a disaster and find and address gaps before a real disaster actually happens. This is also our opportunity to understand our duties not only as individuals but as an entire team to ensure stability to the best of our abilities. This is about us as people.</b>
 
 
 Rules:
