@@ -36,7 +36,7 @@ Before beginning establish the following  "Roles"
 - The "Leader" - the person is generally regarded as the executor of the business continuty plan (generally a manager of some sort)
 - Department Heads/Team Leads - the point of contact for each "team"
 - "Team" members
-- Note taker for funsies if you want
+- Note taker, preferably someone who does not need to participate in the table top scenarios exstensively
 -----
 
 
