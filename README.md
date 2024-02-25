@@ -127,8 +127,8 @@ Determine either based on initiative or randomly who will be the first resource 
 | Roll        |Disaster     |
 | ----------- | ----------- |
 | 1           | An ancient red dragon has decided that the data centers shouldn't exist, starting with your pimary location. Fire is blazing. |
-| 2           | Despite our best efforts in a phishing campaign, someone fell for a cyber-mimic. Womp womp and we are dealing with a cyberattack  |
-| 3           |       |
+| 2           | Despite our best efforts in a phishing campaign, someone fell for a cyber-mimic. We are dealing with a cyberattack  |
+| 3           | A wizard used the wrong componenet and as a result      |
 | 4           | Text        |
 | 5           | Title       |
 | 6           | Text        |
