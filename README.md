@@ -1,5 +1,6 @@
 # D-D-DR
 Laura's Dungeons and Dragons and Disaster Recovery Table Top Adventure 
+<h2>AS OF 2/24/2024 - this is a WIP</h2>
 
 <b>Goal: Infrastructure is often very reactive and this is our opportunity to proactively go through scenarios to help better prepare ourselves as individuals and as an infrastructure team to address not just disaster scenarios but the impact a disaster can have.
 
