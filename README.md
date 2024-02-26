@@ -4,7 +4,7 @@ Laura's Dungeons and Dragons and Disaster Recovery Table Top Adventure
 
 <b>Goal: Infrastructure is often very reactive and this is our opportunity to proactively go through scenarios to help better prepare ourselves as individuals and as an infrastructure team to address not just disaster scenarios but the impact a disaster can have.
 
-Key point to remember: We can't plan for every disaster, but we can plan for impact such as critical systems or staff being unavailable.
+Key point to remember: These scenarios might seem silly and you might be in the midnest to say "How can we plan for things that will never happen?! This is true, we cannot plan for a dragon attack, but the point isn't to plan for that, we want to plan for impact on essential systems, processes, and communications. You better believe a dragon attack is going to impact at least one of those things!
 </b>
 
 
