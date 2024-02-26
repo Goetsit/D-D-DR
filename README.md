@@ -120,7 +120,7 @@ Day/year/time Table(s) - Establish a time frame for your disaster if desired
 -----
 
 
-Disaster Table Roll 1d6
+Disaster Scenario Table Roll 1d6
 
 DRM note - establish day, time, and time of year for this event.
 Determine either based on initiative or randomly who will be the first resource notified/made aware of anything (for example, event is occuring overnight and first person is the on-call rep and recieves the notifications etc)
@@ -129,36 +129,36 @@ Determine either based on initiative or randomly who will be the first resource 
 | ----------- | ----------- |
 | 1           | An ancient red dragon has decided that the data centers shouldn't exist, starting with your pimary location. Fire is blazing. |
 | 2           | Despite our best efforts in a phishing campaign, someone fell for a cyber-mimic. We are dealing with a cyberattack  |
-| 3           | A wizard used the wrong componenet and as a result      |
+| 3           | A wizard used the wrong components for a spell and as a result a significant number of people have been turned into crows. The wizard is calling this CORVID-19. civil infrastructure is a mess, essential communication is made far more difficult etc|
 | 4           | Text        |
 | 5           | Title       |
 | 6           | Text        |
 
 
-Random External Occurences Roll 1d100
+Random External Occurences Roll 1d20
 
 | Roll        |Occurence    |
 | ----------- | ----------- |
-| Header      | You left your laptop open and the Cloud Giant child that your babysitting turned off 1d4 servers       |
-| Paragraph   | Your displacer beast kitten ate your physical BC documentation (do you have electronic versions? another physical copy?)   |
-| Header      | Giant Badgers are swarming the streets, causing car based travel to take an additional 1d4 travel time      |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 1  | You left your laptop open and the Cloud Giant child that your babysitting turned off 1d4 servers.  |
+| 2  | The wizard that recently bough your primary data center realized you're actually delinquent on your bills. He has physically encased your server blocks in ice, they cannot be accessed until your bills have been paid. |
+| 3  | Giant Badgers are swarming the streets, causing car based travel to take an additional 1d4 travel time.      |
+| 4  | The highest two people on the call sheet/decision making tree(CTO and director for example) have been caputred by their ex-best friends and placed in a prison realm, these two people are unable to be communicated with.|
+| 5  | Title       |
+| 6  | Text        |
+| 7  | Title       |
+| 8  | Text        |
+| 9  | Title       |
+| 10 | Text        |
+| 11 | Title       |
+| 12 | Text        |
+| 13 | Title       |
+| 14 | Text        |
+| 15 | Title       |
+| 16 | Text        |
+| 17 | Title       |
+| 18 | Text        |
+| 19 | Title       |
+| 20 | Text        |
 
 
 
