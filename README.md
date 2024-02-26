@@ -141,27 +141,24 @@ Random External Occurences Roll 1d20
 | 2  | The wizard that recently bough your primary data center realized you're actually delinquent on your bills. He has physically encased your server blocks in ice, they cannot be accessed until your bills have been paid. |
 | 3  | Giant Badgers are swarming the streets, causing car based travel to take an additional 1d4 travel time.      |
 | 4  | The highest two people on the call sheet/decision making tree(CTO and director for example) have been captured by their ex-best friends and placed in a prison realm, these two people are unable to be communicated with.|
-| 5  | Title       |
-| 6  | Text        |
-| 7  | Title       |
-| 8  | Text        |
-| 9  | Title       |
-| 10 | Text        |
-| 11 | Title       |
-| 12 | Text        |
-| 13 | Title       |
-| 14 | Text        |
-| 15 | Title       |
-| 16 | Text        |
-| 17 | Title       |
-| 18 | Text        |
-| 19 | Title       |
-| 20 | Text        |
+| 5  |     |
+| 6  |  |
+| 7  |  |
+| 8  |   |
+| 9  |    |
+| 10 |      |
+| 11 |     |
+| 12 |     |
+| 13 |    |
+| 14 |    |
+| 15 |     |
+| 16 |    |
+| 17 |   |
+| 18 |    |
+| 19 |    |
+| 20 |   |
 
 
-
-
--- Uh-oh, someone forgot to update your business continuity plan for several years, roll on the below table to find out just how out-of-date it is!
 
 
 
