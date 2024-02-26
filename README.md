@@ -128,9 +128,9 @@ Determine either based on initiative or randomly who will be the first resource 
 | 1           | An ancient red dragon has decided that the data centers shouldn't exist, starting with your pimary location. Fire is blazing. |
 | 2           | Despite our best efforts in a phishing campaign, someone fell for a cyber-mimic. We are dealing with a cyberattack  |
 | 3           | A wizard used the wrong components for a spell and as a result a significant number of people have been turned into crows. The wizard is calling this CORVID-19. civil infrastructure is a mess, essential communication is made far more difficult etc|
-| 4           | Text        |
-| 5           | Title       |
-| 6           | Text        |
+| 4           | The "Big Bad Evil Guy" is preparing to teleport the entire state or region where all of your stuff is into the astral realm. Good news, he gave you 1d4 days to get out (what a nice guy), better start moving! |
+| 5           | Ok, good news and bad news, the good news... your primary systems are all good. Awesome. However, someone made a deal with asmodeus and now all of our backups are gone and secondary/DR systems are no more. Essentailly, we have no redundancy. Let's hope nothing else goes wrong! Right...nothing else will go wrong?! |
+| 6           | Some swanky vampire named Astarion convinced the new hire to hand over all of your infrastructure diagrams, data, config files, passwords, secret keys... the whole shebang... This is a big ol' data breach.|
 
 
 Random External Occurences Roll 1d20
