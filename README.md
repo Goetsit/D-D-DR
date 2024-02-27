@@ -67,7 +67,7 @@ Determine either based on initiative or randomly who will be the first resource 
 | 6           | Some swanky vampire named Astarion convinced the new hire to hand over all of your infrastructure diagrams, data, config files, passwords, secret keys... the whole shebang... This is a big ol' data breach.|
 
 
-Random External Occurences Roll 1d20
+Random External Occurences Roll 1d20 (Data Injects)
 
 | Roll        |Occurence    |
 | ----------- | ----------- |
