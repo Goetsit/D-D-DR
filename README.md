@@ -42,77 +42,11 @@ Before beginning establish the following  "Roles"
 
 
 
-<b> Module 1 (optional): Communication and Documentation is key! </b>
 
 -----
 
 <b> DRM Notes: </b> 
-
-This is just a tiny little run through to get people going. 
-
-We are looking to establish the expectation that people know where their business continuty plan is, there should be several copies available. 
-
-Additionally establish other documentation as well - for example an inventory of critical systems or a call tree.
-
-General gist here is that our friend Gill is having just a hard time with his Blink Dog who keeps eating all of his documentation. Let's help Gill get his life together.
-
------
-
-
-Welcome adventurers, to the world of "GO"
-
-Here, human capital is prized and jobs are found in stores.
-
-Largest Export: ACHs
-
-Largest Import: Fireball
-
-Population: A non-zero number
-
-We start off the adventure in a classic setting... the favorite watering hole called "Your Home Office". A quaint tavern that looks different to every patron, it's quite a magical feat really.
-It's a beautiful (Day/Night), you're enjoying your favorite snacks, and sharing pictures of your pets, kids, or the cool new enchanted vacuum you got from the "Bedroll, Bath, and Beyond" down the street that was having a close-out sale.
-You were all invited out to go grab a drink with your mutual good friend, Gill Bates. Gill realizes that even though you're all his greatest and most trusted friends, no one here knows anyone else! He recognizes that in an environment where some folks are local and some are remote, it can lead to disaprity in working relationships!
-
-Gill asks everyone to say hi to each other and wants everyone to give us the following information:
-
-- Introductions (if needed):
-
-    - Names, Current location, "team" (DBA, Sys Admin, etc), Manager
- 
-    - Something that's your favorite (it could be your favorite food, your favorite sports team, your favorite color, your favorite song/band, your favorite month of the year etc)
-
-
-After making introductions you all find end up chatting happily amongst yourselves. 
-To the first person in established initiative or a random choice: Gill has reached out to you and he's a bit paniced,  "Hey, my blink dog ate business continuity plan, do you have yours readily available and if so... where?"
-
->> The point of this question is to prompt people to confirm that they have a phsycial and/or digital copy of their business continuity plan. If one or both are missing, what can we do to make sure they have access to this?
-
-Gill responds : "Great, also btw, my blink dog is wondering if you have an electronic and/or physical inventory of critical systems... think you can help me out with answering that one?"
-
->> This is disaster recovery. Everyone involved should have access to an inventory of our critical systems. We shouldn't be relying on tribal knowledge or sticky notes on your desk. If any team does not hhave an inventory, how can they get one?
-
-Gill pops back into our DMs and says: "Yo, one more thing, my call tree is blank, send me a picture of yours plzzzzzzz"
-
->> Ensure your BC has an up-to-date call tree
-
-
-
-<b> Module 2: Let's get this scenario started. </b>
-
------
-
-<b> DRM Notes: </b> 
-
-This is pretty much all you. 
-
-Re-establish, if desired, initiative.
-
-Roll on the following tables to begin establishing your scenario.
-
-Disaster Table - your main scenario, this is the big one (fire, weather, global pandemic, cyberattack, etc) start here 
-Random Occurence Table - Inject some fun in this, you can start the scenario with a couple random occurences to spice things up and then sprinkle them in as you go. 
-Day/year/time Table(s) - Establish a time frame for your disaster if desired
-
+Below are roll tables to be used as much or as little as desired.
 
 
 -----
