@@ -75,8 +75,8 @@ Random External Occurences Roll 1d20
 | 2  | The wizard that recently bough your primary data center realized you're actually delinquent on your bills. He has physically encased your server blocks in ice, they cannot be accessed until your bills have been paid. |
 | 3  | Giant Badgers are swarming the streets, causing car based travel to take an additional 1d4 travel time.      |
 | 4  | The highest two people on the call sheet/decision making tree(CTO and director for example) have been captured by their ex-best friends and placed in a prison realm, these two people are unable to be communicated with.|
-| 5  |     |
-| 6  |  |
+| 5  | The God/Goddess named O365 decides that your outbound and inbound email and DMs are going on vacation with him, email communication temporarily halted until it's brought back up   |
+| 6  | This doesn't impact anything essential, but someone, somewhere, microwaved broccoli and now it smells bad where ever you are.  |
 | 7  |  |
 | 8  |   |
 | 9  |    |
